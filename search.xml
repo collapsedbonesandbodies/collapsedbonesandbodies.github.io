@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2022/10/18/hello-world/</url>
+    <title>一个置顶文章</title>
+    <url>/2022/10/20/%E4%B8%80%E4%B8%AA%E7%BD%AE%E9%A1%B6%E6%96%87%E7%AB%A0/</url>
     <content><![CDATA[]]></content>
+      <categories>
+        <category>置顶</category>
+      </categories>
+      <tags>
+        <tag>置顶</tag>
+      </tags>
   </entry>
   <entry>
     <title>我爱你</title>
@@ -16,5 +22,10 @@
         <tag>标签1</tag>
         <tag>标签2</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2022/10/18/hello-world/</url>
+    <content><![CDATA[]]></content>
   </entry>
 </search>
